@@ -35,7 +35,7 @@ console.log(myNameIs.toUpperCase());
 console.log(myNameIs);
 
 let homeTown = 'My hometown is Greenwood';
-console.log(homeTown.includes('greenwood'
+console.log(homeTown.includes('greenwood');
 
 // Challenge: Use google, find MDN documentation for Strings, research and use the split method to get an array back from this string
 
